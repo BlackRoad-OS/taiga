@@ -1,3 +1,28 @@
+<div align="center">
+
+# 🛣️ BlackRoad OS Integration
+
+<p align="center">
+  <a href="https://blackroad.io"><img src="https://img.shields.io/badge/BlackRoad-OS-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y1QTYyMyIgZD0iTTEyIDJMMyAyMGgxOEwxMiAyeiIvPjwvc3ZnPg==" alt="BlackRoad OS"></a>
+  <a href="https://github.com/BlackRoad-OS"><img src="https://img.shields.io/badge/Org-BlackRoad--OS-F5A623?style=for-the-badge" alt="BlackRoad-OS"></a>
+  <a href="https://blackroad.io"><img src="https://img.shields.io/badge/Website-blackroad.io-FF1D6C?style=for-the-badge" alt="Website"></a>
+</p>
+
+<p align="center">
+  <strong>Part of the BlackRoad OS Infrastructure</strong><br>
+  <em>Building the future of decentralized systems</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/BlackRoad-OS/taiga?style=flat-square&color=9C27B0" alt="License">
+  <img src="https://img.shields.io/github/stars/BlackRoad-OS/taiga?style=flat-square&color=F5A623" alt="Stars">
+  <img src="https://img.shields.io/github/forks/BlackRoad-OS/taiga?style=flat-square&color=2979FF" alt="Forks">
+</p>
+
+---
+
+</div>
+
 <a href="https://www.mozilla.org/en-US/MPL/2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/3fcf3d6b678ea15fde3cf7d6af0e242160366282d62a7c182d83a50bfee3f45e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d504c2d322e302d626c75652e737667" alt="License: MPL-2.0" data-canonical-src="https://img.shields.io/badge/MPL-2.0-blue.svg" style="max-width:100%;"></a>
 ![love-badge]
 
@@ -115,3 +140,21 @@ This software is NOT for commercial resale. Testing purposes only.
 **Contact:** blackroad.systems@gmail.com
 
 See [LICENSE](LICENSE) for complete terms.
+
+---
+
+<div align="center">
+
+## 🖤 BlackRoad OS Integration
+
+This project is part of the **BlackRoad OS** ecosystem - a comprehensive platform for decentralized infrastructure, AI systems, and next-generation computing.
+
+<p>
+  <a href="https://blackroad.io">🌐 blackroad.io</a> •
+  <a href="https://github.com/BlackRoad-OS">📦 GitHub</a> •
+  <a href="mailto:blackroad.systems@gmail.com">📧 Contact</a>
+</p>
+
+**© 2026 BlackRoad OS, Inc. All rights reserved.**
+
+</div>
